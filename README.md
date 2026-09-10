@@ -53,7 +53,7 @@ A Redis-inspired in-memory key-value store built from scratch in Python using ra
 
 **Tech:** Python · TCP Sockets · Multithreading · Data Structures · JSON
 
-[View Repository →]([repolink](https://github.com/anu-gthub426/MiniRedis))
+[View Repository →](https://github.com/anu-gthub426/MiniRedis)
 
 ---
 
@@ -63,7 +63,7 @@ A healthcare application that extracts medicine details from prescription images
 
 **Tech:** Python · Google Gemini API · OCR · Twilio API
 
-[View Repository →]([repolink](https://github.com/anu-gthub426/MedMitra))
+[View Repository →](https://github.com/anu-gthub426/MedMitra)
 
 ---
 
@@ -73,7 +73,7 @@ A crop health and agricultural advisory application that analyzes crop images, i
 
 *Built as part of the Build with MeDo hackathon using MeDo's prompt-based application development platform.*
 
-[View Live App →]([website_link](https://app-bomg3s4f2n0i.appmedo.com))
+[View Live App →](https://app-bomg3s4f2n0i.appmedo.com)
 
 ## 🧩 Problem Solving
 
