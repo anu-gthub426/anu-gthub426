@@ -47,13 +47,23 @@ I'm a Computer Science undergraduate with a strong interest in software developm
 
 ## 🚀 Projects & Builds
 
+### ⚡ MiniRedis
+
+A Redis-inspired in-memory key-value store built from scratch in Python using raw TCP sockets. Implements concurrent client handling, thread-safe shared state, TTL-based key expiry, LRU eviction, JSON persistence, and a custom text-based protocol with 17 commands.
+
+**Tech:** Python · TCP Sockets · Multithreading · Data Structures · JSON
+
+[View Repository →]([repolink](https://github.com/anu-gthub426/MiniRedis))
+
+---
+
 ### 🩺 MedMitra
 
 A healthcare application that extracts medicine details from prescription images, generates a clear prescription summary, and helps identify duplicate medications and potential drug interactions.
 
 **Tech:** Python · Google Gemini API · OCR · Twilio API
 
-[View Repository →](https://github.com/anu-gthub426/MedMitra)
+[View Repository →]([repolink](https://github.com/anu-gthub426/MedMitra))
 
 ---
 
@@ -63,7 +73,7 @@ A crop health and agricultural advisory application that analyzes crop images, i
 
 *Built as part of the Build with MeDo hackathon using MeDo's prompt-based application development platform.*
 
-[View Live App →](https://app-bomg3s4f2n0i.appmedo.com)
+[View Live App →]([website_link](https://app-bomg3s4f2n0i.appmedo.com))
 
 ## 🧩 Problem Solving
 
