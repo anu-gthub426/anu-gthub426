@@ -3,7 +3,7 @@
 I'm a Computer Science undergraduate with a strong interest in software development and problem solving. I enjoy building practical applications while strengthening my understanding of Data Structures, Algorithms, and core Computer Science fundamentals.
 
 💻 Interested in Software Development & Problem Solving  
-🧩 400+ LeetCode problems solved  
+🧩 450+ LeetCode problems solved  
 🚀 Currently exploring Machine Learning, Cloud Computing & Web Development  
 🌱 Always learning, building, and improving
 
@@ -47,6 +47,16 @@ I'm a Computer Science undergraduate with a strong interest in software developm
 
 ## 🚀 Projects & Builds
 
+### 🔤 Regex Engine from Scratch
+
+A regex engine built from first principles using **formal languages and automata theory**. Implements the complete pipeline from regex parsing to a minimized DFA, including recursive-descent parsing, Thompson's NFA construction, subset construction, and Hopcroft's DFA minimization.
+
+**Tech:** Python · Automata Theory · NFA/DFA · Thompson's Construction · Hopcroft's Algorithm · Pytest · Benchmarking
+
+[View Repository →](https://github.com/anu-gthub426/Automata-Regex)
+
+---
+
 ### ⚡ MiniRedis
 
 A Redis-inspired in-memory key-value store built from scratch in Python using raw TCP sockets. Implements concurrent client handling, thread-safe shared state, TTL-based key expiry, LRU eviction, JSON persistence, and a custom text-based protocol with 17 commands.
@@ -79,7 +89,7 @@ A crop health and agricultural advisory application that analyzes crop images, i
 
 I enjoy strengthening my problem-solving skills through Data Structures & Algorithms and regularly practice coding problems on LeetCode.
 
-- 🏆 400+ problems solved on LeetCode
+- 🏆 450+ problems solved on LeetCode
 - 📚 Practicing Data Structures & Algorithms
 - 💡 Focused on improving problem-solving, algorithmic thinking, and writing efficient solutions
 
