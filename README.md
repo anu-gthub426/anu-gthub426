@@ -47,7 +47,7 @@ I'm a Computer Science undergraduate with a strong interest in software developm
 
 ## 🚀 Projects & Builds
 
-### 🔤 Regex Engine from Scratch
+### 🔤 Automata-Regex
 
 A regex engine built from first principles using **formal languages and automata theory**. Implements the complete pipeline from regex parsing to a minimized DFA, including recursive-descent parsing, Thompson's NFA construction, subset construction, and Hopcroft's DFA minimization.
 
